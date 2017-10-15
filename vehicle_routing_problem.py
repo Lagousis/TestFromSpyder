@@ -1,4 +1,4 @@
-# From here https://developers.google.com/optimization/routing/tsp/vehicle_routing - Google OR Tools    
+# From here https://developers.google.com/optimization/routing/tsp/vehicle_routing
 
 import math
 from ortools.constraint_solver import pywrapcp
